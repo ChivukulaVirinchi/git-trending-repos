@@ -23,7 +23,7 @@ To run this web app locally, you need to have Node.js and npm installed on your 
 
 ## Demo
 
-You can see a live demo of this web app here: [Trending Repos]
+You can see a live demo of this web app here: [(https://git-trending-repos.vercel.app/)]
 
 ## License
 
